@@ -1,7 +1,8 @@
 ﻿影像拼接界面工具（wxPython + SuperMapPython）
 
 运行脚本 testMergeImg.py
-
+1.设置PYHTOHPATH E:\GIScript-master\lib_python\smlib\7.1\Win64\bin；E:\GIScript-master\lib_python\smlib
+2.设置环境变量PATH E:\GIScript-master\lib\7.1\Win64\UGC_710_11410_43909_64_x64_win_vc11_Bin
 
 一、Visual Studio 2012 环境配置（Windows）
 1、下载安装 wxPython，默认安装在所使用的Python安装程序lib文件夹下的site-packages中（Windows、Linux中site-packages文件夹所在位置不同）；
